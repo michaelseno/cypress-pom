@@ -1,1 +1,1 @@
-Playwright with Javascript
+Cypress with Page Object Model
